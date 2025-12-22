@@ -1,0 +1,18 @@
+﻿# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test outputs
+.pytest_cache/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
